@@ -22,9 +22,9 @@ URL = "testimonials"
 name = "Testimonials"
 weight = "15"
 [[menu.main]]
-URL = ""
-name = ""
-weight = ""
+URL = "Pricing"
+name = "pricing"
+weight = "30"
 [[menu.main]]
 URL = ""
 name = ""
