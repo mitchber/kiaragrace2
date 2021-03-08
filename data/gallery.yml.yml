@@ -2,6 +2,9 @@
 tools:
 - title: Dogs
   tool:
+  - name: o+a
+    image: "/images/o-a1.jpeg"
+    link: ''
   - name: op2
     image: "/images/optimus1.jpeg"
     link: ''
