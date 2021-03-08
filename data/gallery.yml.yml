@@ -21,4 +21,8 @@ tools:
     image: "/images/alby2.jpeg"
     link: ''
 title: gallery.yml
+menu:
+  footer:
+    name: Gallery
+    weight: 3
 draft: true

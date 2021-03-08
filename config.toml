@@ -6,37 +6,21 @@ summaryLength = "10"
 theme = "github.com/themefisher/northendlab-hugo"
 title = "KiaraGrace Photography"
 [[menu.footer]]
+URL = "tools"
+name = "tools"
+weight = 2
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.footer]]
+[[menu.main]]
 URL = "tools"
 name = "tools"
 weight = 2
 [[menu.main]]
-URL = "gallery"
-name = "Gallery"
-weight = "10"
-[[menu.main]]
-URL = "testimonials"
-name = "Testimonials"
-weight = "15"
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = "30"
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = "25"
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-weight = "40"
-[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = "50"
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
