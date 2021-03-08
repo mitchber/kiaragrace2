@@ -18,6 +18,18 @@ URL = "gallery"
 name = "Gallery"
 weight = "10"
 [[menu.main]]
+URL = "testimonials"
+name = "Testimonials"
+weight = "15"
+[[menu.main]]
+URL = ""
+name = ""
+weight = ""
+[[menu.main]]
+URL = ""
+name = ""
+weight = ""
+[[menu.main]]
 URL = "faq"
 name = "FAQ"
 weight = "40"
