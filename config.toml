@@ -14,6 +14,10 @@ URL = "tools"
 name = "tools"
 weight = 2
 [[menu.main]]
+URL = "gallery"
+name = "Gallery"
+weight = "5"
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
