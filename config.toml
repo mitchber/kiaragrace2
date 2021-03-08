@@ -6,7 +6,7 @@ summaryLength = "10"
 theme = "github.com/themefisher/northendlab-hugo"
 title = "KiaraGrace Photography"
 [[menu.footer]]
-URL = ""
+URL = "wew"
 name = "test"
 weight = ""
 [[menu.footer]]
@@ -53,9 +53,9 @@ google_tag_manager = ""
 home = "Home"
 logo = "images/logo.svg"
 [params.banner]
-bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+bgImage = ""
+image = "images/hero1.jpeg"
+title = ""
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
