@@ -27,9 +27,9 @@ tools:
     link: ''
 title: gallery.yml
 menu:
-  main:
-    name: Gallery
-    weight: 3
   footer:
+    name: Gallery
+    weight: 1
+  main:
     name: Gallery
     weight: 3
