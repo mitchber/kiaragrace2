@@ -53,7 +53,7 @@ google_tag_manager = ""
 home = "Home"
 logo = "images/logo.svg"
 [params.banner]
-bgImage = ""
+bgImage = "images/hero1.jpeg"
 image = "images/hero1.jpeg"
 title = ""
 [params.cta]
