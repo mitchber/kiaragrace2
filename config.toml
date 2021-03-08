@@ -26,9 +26,9 @@ URL = "pricing"
 name = "Pricing"
 weight = "30"
 [[menu.main]]
-URL = ""
-name = ""
-weight = ""
+URL = "blog"
+name = "Blog"
+weight = "25"
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
