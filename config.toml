@@ -18,13 +18,13 @@ URL = "gallery"
 name = "Gallery"
 weight = "10"
 [[menu.main]]
+URL = "faq"
+name = "FAQ"
+weight = "40"
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = "50"
-[[menu.main]]
-URL = "tools"
-name = "tools"
-weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
